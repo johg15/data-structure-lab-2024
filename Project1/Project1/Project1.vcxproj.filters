@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="lec7.c">
+    <ClCompile Include="lec11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
